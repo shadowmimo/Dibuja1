@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86,armeabi-v7a"
+    api-level="19"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="62637115918837"
+    token="-7436080954809350342"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="89" />
+    <task
+        name="instant-run-dex"
+        duration="562" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="60888158586785"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="60917266843183"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\60917266843183\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="60927104550104"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\60927104550104\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="60961483882817"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\60961483882817\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="60971404144762"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\60971404144762\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61054362814899"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61054362814899\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61089541917626"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61089541917626\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61115613827871"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61115613827871\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61141365411455"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61141365411455\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61155146664335"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61155146664335\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61220356101177"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61220356101177\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61234380081498"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61234380081498\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61245166234376"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61245166234376\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61264075308832"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61264075308832\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61279235509409"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61279235509409\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61291334191598"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61291334191598\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61312610467426"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61312610467426\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61326519216256"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61326519216256\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61339697962895"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61339697962895\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61369057198985"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61369057198985\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61392867466070"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61392867466070\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61403691246101"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61403691246101\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61417967093649"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61417967093649\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61449449314804"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61449449314804\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61492810067152"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61492810067152\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61523456790878"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61523456790878\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61541924241640"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61541924241640\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61556695950007"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61556695950007\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61568944324951"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61568944324951\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61583233551304"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61583233551304\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61594911526630"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61594911526630\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61602679461632"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61602679461632\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61645077441525"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61645077441525\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61655755807756"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61655755807756\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61678477844410"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61678477844410\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61780806946830"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61780806946830\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61807483010387"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61807483010387\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61836345286929"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61836345286929\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61872739008091"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61872739008091\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61894530207140"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61894530207140\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61909470059349"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61909470059349\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61940214613570"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61940214613570\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61952814094208"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61952814094208\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61964672802949"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61964672802949\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="61976123128933"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\61976123128933\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62580252958532"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\62580252958532\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62593208971187"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\62593208971187\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62599322338267"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\62599322338267\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62609922429452"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\62609922429452\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62624074160695"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\builds\debug\62624074160695\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="62637115918837"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Ulises\AndroidStudioProjects\Dibuja1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
